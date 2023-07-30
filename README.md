@@ -1,4 +1,4 @@
-# slava-test
+# task-test
 Тестовое задание
 
 ## Технологии:
@@ -19,13 +19,9 @@ npm run serve
 ## Создание билда
 Чтобы выполнить production сборку, выполните команду:
 ```
-npm run serve
-```
-
-### Компиляция и минификация для продуктовой сборки
-```
 npm run build
 ```
+
 ### Deploy 
 git subtree push --prefix dist origin gh-pages
 
